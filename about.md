@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About Us
+permalink: /about/
 ---
 
 ## Quam sibi prodamne quicquam partique comas
